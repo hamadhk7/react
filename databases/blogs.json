@@ -1,0 +1,13 @@
+[{
+  "title": "huffpost-",
+  "thumbnail": "E:\reactportfolio\\src\\client\\images",
+  "blog_link": "https://www.huffpost.com/"
+},{
+  "title": "Coronavirus (COVID-19) - Full Stack Application",
+  "thumbnail": "https://assets.hackbotone.com/images/coronavirus_covid_19_full_stack_application/Thumbnail.png",
+  "blog_link": "https://hackbotone.com/blog/covid-19-full-stack-application"
+},{
+  "title": "Cross-Site-Scripting — Reflected (JSON)",
+  "thumbnail": "https://assets.hackbotone.com/images/cross_site_scripting_reflected_json/cross_site_scripting_reflected_json.png",
+  "blog_link": "https://hackbotone.com/blog/cross-site-scripting-reflected-json"
+}]
